@@ -41,7 +41,7 @@ Create a folder named `asset` in the root directory of the project. This folder 
 
 ### 3. Download the `creditcard.csv` File
 
-The `creditcard.csv` dataset is required to run the prediction and transaction testing functions. You can download the dataset from [this link]([https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/code/chanchal24/credit-card-fraud-detection)) or another source. Once downloaded, place the file inside the `asset` folder.
+The `creditcard.csv` dataset is required to run the prediction and transaction testing functions. You can download the dataset from [this link](https://www.kaggle.com/code/chanchal24/credit-card-fraud-detection) or another source. Once downloaded, place the file inside the `asset` folder.
 
 ### 4. Install Dependencies
 
