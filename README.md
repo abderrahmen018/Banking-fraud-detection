@@ -29,9 +29,9 @@ This project is a machine learning application with a graphical interface for de
 
 Start by cloning the repository to your local machine:
 
-'''
+```
 git clone https://github.com/abderrahmen018/Banking-fraud-detection.git
-'''
+```
 
 ### 2. Create the `asset` Folder
 
@@ -41,7 +41,7 @@ Create a folder named `asset` in the root directory of the project. This folder 
 
 ### 3. Download the `creditcard.csv` File
 
-The [`creditcard.csv`](https://www.kaggle.com/code/chanchal24/credit-card-fraud-detection) dataset is required to run the prediction and transaction testing functions. You can download the dataset from [this link](https://www.kaggle.com/mlg-ulb/creditcardfraud) or another source. Once downloaded, place the file inside the `asset` folder.
+The `creditcard.csv` dataset is required to run the prediction and transaction testing functions. You can download the dataset from [this link]([https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/code/chanchal24/credit-card-fraud-detection)) or another source. Once downloaded, place the file inside the `asset` folder.
 
 ### 4. Install Dependencies
 
@@ -49,9 +49,9 @@ The [`creditcard.csv`](https://www.kaggle.com/code/chanchal24/credit-card-fraud-
 
 Once everything is set up, you can run the project by executing the main script:
 
-'''
-python fraud_app.py
-'''
+```
+python main_app.py
+```
 
 This will launch the graphical user interface (GUI) where you can:
 - **Select a model** for predictions from a CSV file.
